@@ -1,0 +1,15 @@
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\bin\Debug\net6.0\staticsinifveuyeler.exe
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\bin\Debug\net6.0\staticsinifveuyeler.deps.json
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\bin\Debug\net6.0\staticsinifveuyeler.runtimeconfig.json
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\bin\Debug\net6.0\staticsinifveuyeler.dll
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\bin\Debug\net6.0\staticsinifveuyeler.pdb
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\staticsinifveuyeler.csproj.AssemblyReference.cache
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\staticsinifveuyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\staticsinifveuyeler.AssemblyInfoInputs.cache
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\staticsinifveuyeler.AssemblyInfo.cs
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\staticsinifveuyeler.csproj.CoreCompileInputs.cache
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\staticsinifveuyeler.dll
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\refint\staticsinifveuyeler.dll
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\staticsinifveuyeler.pdb
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\staticsinifveuyeler.genruntimeconfig.cache
+C:\Users\serap\Desktop\Pratikler\staticsinifveuyeler\obj\Debug\net6.0\ref\staticsinifveuyeler.dll
